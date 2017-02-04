@@ -1,23 +1,49 @@
 .hangman{
-	position: ;
+	position:relative;
+	width: 125%;
+	height: auto;
+	margin-left: 50px;
+	
+	 
 }
 
 .rpg{
-	position: ;
+	position:relative;
+	margin-left: 315px;
+	margin-top: -170px;
+	width: 125%;
+	height: auto;
 }
 
 .trivia{
-	position: ;
+	position:relative;
+	width: 125%;
+	height: auto;
+	margin-left: 50px;
+	margin-top: 50px;
 }
 
 .rutgers{
-	position: ;
+	position:relative;
+	margin-left: 315px;
+	margin-top: -170px;
+	width: 125%;
+	height: auto;
 }
 
 .rock{
-	position: ;
+	position:relative; 
+	width: 125%;
+	height: auto;
+	margin-left: 50px;
+	margin-top: 50px;
 }
 
 .meh{
 	
+}
+
+#contact_form{
+	width: 100%;
+	height: auto;
 }

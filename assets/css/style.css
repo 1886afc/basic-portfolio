@@ -13,7 +13,7 @@ body{
     margin-left: ;
 }
 
-#paagewrap{
+#pagewrap{
     min-height: 100%;
     width: 1350px;
     margin: auto;
@@ -107,7 +107,10 @@ h2{
 }
 
 h4{
-    
+    position: absolute;
+    top:50px;
+    left: 0;
+    width: 30%;
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding: 10px;
     color:white;
