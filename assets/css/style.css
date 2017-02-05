@@ -42,7 +42,7 @@ header{
 
 }
 
-.nav {
+.nav{
     display: inline-block;
     padding:0px;
     color:grey;
@@ -52,6 +52,11 @@ header{
     float: right;
     margin-top: 30px;
     margin-right: 240px;
+    
+}
+
+.link a:hover{
+    background-color: red;
 }
 
 .connect{
